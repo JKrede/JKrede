@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, nice to see you! 🤓</h1>
+<h1 align="center"> Hi there, nice to see you! 🤝</h1>
 <p align="center">
   <img src="team-fortress2-engineer.gif" alt="Red engineer playing an guitar.">
 </p>
