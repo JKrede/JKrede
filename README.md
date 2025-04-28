@@ -9,5 +9,5 @@
   <li>I'm from Cordoba, Argentina 🇦🇷</li>
   <li>I'm an advanced student in the Computer Engineering degree program at the National University of Córdoba</li>
   <li>I love programming 🖥️😍</li>
-  <li>I'm currently working on projects for my college and learning backend development in Python with Django🦎.</li>
+  <li>I'm currently working on projects for my college.</li>
 </ul>
