@@ -8,6 +8,5 @@
   <li>I'm 24 years old</li>
   <li>I'm from Cordoba, Argentina 🇦🇷</li>
   <li>I'm an advanced student in the Computer Engineering degree at the National University of Córdoba</li>
-  <li>I love programming 🖥️😍</li>
   <li>I'm currently working on projects for my college.</li>
 </ul>
